@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/zepo/static/css/main.cf0481a8.chunk.css",
+    "main.js": "/zepo/static/js/main.7f85dade.chunk.js",
+    "main.js.map": "/zepo/static/js/main.7f85dade.chunk.js.map",
+    "runtime-main.js": "/zepo/static/js/runtime-main.c68223f4.js",
+    "runtime-main.js.map": "/zepo/static/js/runtime-main.c68223f4.js.map",
+    "static/js/2.6ca7aac8.chunk.js": "/zepo/static/js/2.6ca7aac8.chunk.js",
+    "static/js/2.6ca7aac8.chunk.js.map": "/zepo/static/js/2.6ca7aac8.chunk.js.map",
+    "static/js/3.9e813643.chunk.js": "/zepo/static/js/3.9e813643.chunk.js",
+    "static/js/3.9e813643.chunk.js.map": "/zepo/static/js/3.9e813643.chunk.js.map",
+    "index.html": "/zepo/index.html",
+    "static/css/main.cf0481a8.chunk.css.map": "/zepo/static/css/main.cf0481a8.chunk.css.map",
+    "static/js/2.6ca7aac8.chunk.js.LICENSE.txt": "/zepo/static/js/2.6ca7aac8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c68223f4.js",
+    "static/js/2.6ca7aac8.chunk.js",
+    "static/css/main.cf0481a8.chunk.css",
+    "static/js/main.7f85dade.chunk.js"
+  ]
+}
